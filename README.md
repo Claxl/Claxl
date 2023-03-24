@@ -14,7 +14,7 @@ I'm a Computer Engineering student at [Politecnico di Milano (POLIMI)](https://w
  -	Thesis : [Implementation of mechanisms for Full and Partial reconfiguration of FPGAs in IoT-Cloud architectures](https://github.com/Claxl/TESI-Claudio-Di-Salvo)
 
 #### Personal project
- - ~~[Bot for animated sticker on Whatsapp](https://github.com/Claxl/StickerBot)~~ 
+ - ~~[Bot for animated sticker on Whatsapp](https://github.com/Claxl/StickerBot)~~ *Deprecated*
  - [CMPS14 to Arancino Library](https://github.com/Claxl/CMPS14toArancino/tree/main)
 
 #### Contact
