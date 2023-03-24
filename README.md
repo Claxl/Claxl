@@ -5,7 +5,7 @@ I'm a Computer Engineering student at [Politecnico di Milano (POLIMI)](https://w
 
 #### Master Level - Computer Science and Engineering @Polimi - 2022-2024
 
- -  Software Engineering Project:  MyShelfie 
+ -  Software Engineering Project:  MyShelfie *WIP*
  -  Foundation of Operation Research : [Biogas plants location](https://github.com/Claxl/BiogasPlantsLocationFOR22-23)
 
 #### Bachelor Level - Electronic and Computer Engineering @UNIME - 2019-2022
