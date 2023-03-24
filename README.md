@@ -12,3 +12,6 @@ I'm a Computer Engineering student at [Politecnico di Milano (POLIMI)](https://w
 -	Foundation of Computer Science : [Gestione di un albergo](https://github.com/Claxl/AlbergoC2020)
 -	Computer Networks : [Fault Tollerance Chat](https://github.com/Claxl/FaultTolleranceChat/tree/main)
 -	Thesis : [Implementation of mechanisms for Full and Partial reconfiguration of FPGAs in IoT-Cloud architectures](https://github.com/Claxl/TESI-Claudio-Di-Salvo)
+
+#### Personal project
+- ~~[Bot for animated sticker on Whatsapp](https://github.com/Claxl/StickerBot)~~ 
