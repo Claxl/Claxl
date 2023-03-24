@@ -9,10 +9,13 @@ I'm a Computer Engineering student at [Politecnico di Milano (POLIMI)](https://w
  -  Foundation of Operation Research : [Biogas plants location](https://github.com/Claxl/BiogasPlantsLocationFOR22-23)
 
 #### Bachelor Level - Electronic and Computer Engineering @UNIME - 2019-2022
--	Foundation of Computer Science : [Gestione di un albergo](https://github.com/Claxl/AlbergoC2020)
--	Computer Networks : [Fault Tollerance Chat](https://github.com/Claxl/FaultTolleranceChat/tree/main)
--	Thesis : [Implementation of mechanisms for Full and Partial reconfiguration of FPGAs in IoT-Cloud architectures](https://github.com/Claxl/TESI-Claudio-Di-Salvo)
+ -	Foundation of Computer Science : [Gestione di un albergo](https://github.com/Claxl/AlbergoC2020)
+ -	Computer Networks : [Fault Tollerance Chat](https://github.com/Claxl/FaultTolleranceChat/tree/main)
+ -	Thesis : [Implementation of mechanisms for Full and Partial reconfiguration of FPGAs in IoT-Cloud architectures](https://github.com/Claxl/TESI-Claudio-Di-Salvo)
 
 #### Personal project
-- ~~[Bot for animated sticker on Whatsapp](https://github.com/Claxl/StickerBot)~~ 
-- [CMPS14 to Arancino Library](https://github.com/Claxl/CMPS14toArancino/tree/main)
+ - ~~[Bot for animated sticker on Whatsapp](https://github.com/Claxl/StickerBot)~~ 
+ - [CMPS14 to Arancino Library](https://github.com/Claxl/CMPS14toArancino/tree/main)
+
+#### Contact
+ - [LinkedIn](https://www.linkedin.com/in/claudiodisalvo1/)
