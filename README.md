@@ -8,7 +8,7 @@ I'm a Computer Engineering student at [Politecnico di Milano (POLIMI)](https://w
  -  Software Engineering Project:  MyShelfie 
  -  Foundation of Operation Research : [Biogas plants location](https://github.com/Claxl/BiogasPlantsLocationFOR22-23)
 
-#### Bachelor Level - Elettronic and Computer Engineering @UNIME - 2019 - 2022
+#### Bachelor Level - Electronic and Computer Engineering @UNIME - 2019-2022
 -	Foundation of Computer Science : [Gestione di un albergo](https://github.com/Claxl/AlbergoC2020)
 -	Computer Networks : [Fault Tollerance Chat](https://github.com/Claxl/FaultTolleranceChat/tree/main)
 -	Thesis : [Implementation of mechanisms for Full and Partial reconfiguration of FPGAs in IoT-Cloud architectures](https://github.com/Claxl/TESI-Claudio-Di-Salvo)
