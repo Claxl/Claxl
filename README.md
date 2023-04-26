@@ -15,7 +15,7 @@ I'm a Computer Engineering student at [Politecnico di Milano (POLIMI)](https://w
 
 #### Personal project
  - ~~[Bot for animated sticker on Whatsapp](https://github.com/Claxl/StickerBot)~~ *Deprecated*
- - [CMPS14 to Arancino Library](https://github.com/Claxl/CMPS14toArancino/tree/main)
+ - [CMPS14 to Arduino Library](https://github.com/Claxl/CMPS14toArancino/tree/main)
 
 #### Contact
  - [LinkedIn](https://www.linkedin.com/in/claudiodisalvo1/)
