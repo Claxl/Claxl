@@ -8,7 +8,7 @@ This is part of my assignment during my exchange period in Trondheim, Norway.
  - TDT4258 Low-Level Programming : [Assignment](https://github.com/Claxl/Low-LevelProgramming2023)
  - TDT4200 Parallel Computing : [Assignment](https://github.com/Claxl/Parallel-Computing2023)
  - TDT4173 Machine Learning : [Assignment](https://github.com/Claxl/MLAssignment2023)  and [Project](https://github.com/Claxl/MLProject)
- - TDT4136 Introduction to AI : [Assignment](https://github.com/Claxl/AI2023)
+ - TDT4136 Introduction to AI : [Assignment](https://github.com/SanderVanRiessen/introduction-to-ai)
 
 #### Master Level - Computer Science and Engineering @Polimi - 2022-2024
 
