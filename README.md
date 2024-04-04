@@ -12,7 +12,7 @@ This is part of my assignment during my exchange period in Trondheim, Norway.
 
 #### Master Level - Computer Science and Engineering @Polimi - 2022-2024
 
- -  Software Engineering Project:  MyShelfie
+ -  Software Engineering Project:  *MyShelfie*
  -  Foundation of Operation Research : [Biogas plants location](https://github.com/Claxl/BiogasPlantsLocationFOR22-23)
  - Advanced Computing Architecture : [Notes](https://github.com/Claxl/ACA)
 
