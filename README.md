@@ -1,7 +1,7 @@
 
 # Hi, I'm Claudio!
 
-I'm a Computer Engineering student at [Politecnico di Milano (POLIMI)](https://www.polimi.it/en/), with a strong interest in embedded systems. I love working on projects that involve hardware and software integration, and I'm always seeking to expand my knowledge in these areas. 
+I'm a Computer Engineering student at [Politecnico di Milano (POLIMI)](https://www.polimi.it/en/), with a strong interest in embedded systems and heterogeneous systems. I love working on projects that involve hardware and software integration, and I'm always seeking to expand my knowledge in these areas. 
 
 #### Master Level - Computer Science and Engineering @NTNU - Aug 2023 - Dec 2023
 This is part of my assignment during my exchange period in Trondheim, Norway.
