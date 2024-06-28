@@ -5,16 +5,13 @@ I'm currently pursuing my MSc at the [Politecnico di Milano](https://www.polimi.
 I'm currently improving my skills in systems architecture 
 #### NECSTCamp @ Polimi 2024 - Now
 - [Merge Sort IP for a PYNQ2](https://github.com/Claxl/Merge_Sort_IP)
-
+#### Master Level - Computer Science and Engineering @Polimi - 2022 - Now
+ -  Foundation of Operation Research : [Biogas plants location](https://github.com/Claxl/BiogasPlantsLocationFOR22-23)
+ - Advanced Computing Architecture : [Notes](https://github.com/Claxl/ACA)
 #### Master Level - Computer Science and Engineering @NTNU - Aug 2023 - Dec 2023
  - Parallel Computing : [2D heat simulation in CUDA and MPI](https://github.com/Claxl/2D-heat-simulation)
  - Machine Learning : [Solar Energy Production Forecasting](https://github.com/Claxl/Solar-Energy-Production-Forecasting)
-
-#### Master Level - Computer Science and Engineering @Polimi - 2022-2024
- -  Foundation of Operation Research : [Biogas plants location](https://github.com/Claxl/BiogasPlantsLocationFOR22-23)
- - Advanced Computing Architecture : [Notes](https://github.com/Claxl/ACA)
-
-#### Bachelor Level - Electronic and Computer Engineering @UNIME - 2019-2022
+#### Bachelor Level - Electronic and Computer Engineering @UNIME - 2019 - 2022
  -	Thesis : [Implementation of mechanisms for Full and Partial reconfiguration of FPGAs in IoT-Cloud architectures](https://github.com/Claxl/Full-and-Partial-Reconfiguration-of-FPGAs-in-IoT-Cloud-architectures)
 
 #### Personal project
