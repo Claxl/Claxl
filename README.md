@@ -37,9 +37,9 @@ I'm currently improving my skills in systems architecture and computer security.
  -	[Mail](mailto:claudio.disalvo11@gmail.com?subject=Hello!)
 
 #### Interest
- - Personal Finance
  - Aeronautic
  - Automotive
- - Videogames
+ - Personal Finance
  - Space
+ - Videogames
 
