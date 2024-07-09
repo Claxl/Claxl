@@ -32,7 +32,15 @@ I'm currently improving my skills in systems architecture
 
 #### Contact
  - [LinkedIn](https://www.linkedin.com/in/claudiodisalvo1/)
--	[Mail](mailto:claudio.disalvo11@gmail.com?subject=Hello!)
+ -	[Mail](mailto:claudio.disalvo11@gmail.com?subject=Hello!)
 
+#### Interest
+ - Personal Finance
+ - Aeronautic
+ - Automotive
+ - Videogames
+ - Space
  
-
+#### Currently Learning
+ - Computer Security
+ - VHDL
