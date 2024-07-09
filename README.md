@@ -13,6 +13,8 @@ I'm currently improving my skills in systems architecture
 #### Master Level - Computer Science and Engineering @NTNU - Aug 2023 - Dec 2023
  - Parallel Computing : [2D heat simulation in CUDA and MPI](https://github.com/Claxl/2D-heat-simulation)
  - Machine Learning : [Solar Energy Production Forecasting](https://github.com/Claxl/Solar-Energy-Production-Forecasting)
+ - [A* implementation for finding the shortest path in the club](https://github.com/Claxl/Samfundent_path_finder_with_Astar)
+ - [Minmax and Alpha-beta Pruning implementation for solving UC Berkeley CS188 Intro to AI Pacman Project](https://github.com/Claxl/Multi_Agent_Search_4_Berkeley_Pacman)
 
 #### Bachelor Level - Electronic and Computer Engineering @UNIME - 2019 - 2022
  -	Thesis : [Implementation of mechanisms for Full and Partial reconfiguration of FPGAs in IoT-Cloud architectures](https://github.com/Claxl/Full-and-Partial-Reconfiguration-of-FPGAs-in-IoT-Cloud-architectures)
