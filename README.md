@@ -1,8 +1,8 @@
 
 # Hi, I'm Claudio! 
 
-I'm pursuing my MSc at the [Politecnico di Milano](https://www.polimi.it/en/). I'm passionate about heterogeneous systems and their applications. I want to study and improve my understanding of their applications in automotive and space navigation.
-I'm currently improving my skills in systems architecture 
+I am pursuing my MSc at the [Politecnico di Milano](https://www.polimi.it/en/). I am passionate about heterogeneous systems and their applications, focusing on studying and improving my understanding of their applications in automotive and space navigation.
+I'm currently improving my skills in systems architecture and computer security. 
 #### NECSTCamp @ Polimi 2024 - Now
 - [Merge Sort IP for a PYNQ2](https://github.com/Claxl/Merge_Sort_IP)
 
@@ -40,7 +40,4 @@ I'm currently improving my skills in systems architecture
  - Automotive
  - Videogames
  - Space
- 
-#### Currently Learning
- - Computer Security
- - VHDL
+
