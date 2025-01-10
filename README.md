@@ -5,7 +5,7 @@ I am pursuing my MSc at the [Politecnico di Milano](https://www.polimi.it/en/). 
 I'm currently improving my skills in systems architecture and computer security. 
 
 ### Academic Journey
-#### NECSTCamp @ Polimi 2024 - Now
+#### Research Student @ NECSTLab - Polimi 2024 - Now
 - [Merge Sort IP for a PYNQ2](https://github.com/Claxl/Merge_Sort_IP)
 
 #### Master Level - Computer Science and Engineering @Polimi - 2022 - Now
