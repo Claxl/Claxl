@@ -7,6 +7,7 @@ I'm currently improving my skills in systems architecture and computer security.
 ### Academic Journey
 #### Research Student @ NECSTLab - Polimi 2024 - Now
 - [Merge Sort IP for a PYNQ2](https://github.com/Claxl/Merge_Sort_IP)
+- [Characterization of Image Registration in Remote Sensing Field on KRIA KR260](https://github.com/Claxl/ImageRegistration_for_RemoteSensing_Characterization)
 
 #### Master Level - Computer Science and Engineering @Polimi - 2022 - Now
  - [Biogas plants location optimization](https://github.com/Claxl/BiogasPlantsLocationFOR22-23)
