@@ -28,17 +28,6 @@ I am passionate about heterogeneous systems and their deployment in space and au
 #### Personal Projects
 - [CMPS14 to Arduino Library](https://github.com/Claxl/CMPS14toArancino/tree/main)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
- <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"> <img src="https://www.xilinx.com/content/dam/xilinx/imgs/logos/xilinx/vitis-logo-topbanner.png" alt="vitis" width="60" height="40"/> </a>
- <a href="https://www.nvidia.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" alt="CUDA" width="70" height="40"/> </a>
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <a href="https://www.java.com/it/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
-</p>
-
 #### Contact
 - [LinkedIn](https://www.linkedin.com/in/claudiodisalvo1/)
 - [Mail](mailto:claudio.disalvo@polimi.it?subject=Hello!)
