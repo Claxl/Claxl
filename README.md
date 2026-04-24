@@ -1,6 +1,6 @@
 # Hi, I'm Claudio!
 ### About Me
-I am a first-year PhD student in Information Technology at the [Politecnico di Milano](https://www.polimi.it/en/). My research focuses on **measurement-driven co-design of adaptive and reconfigurable architectures for satellite on-board vision computing**, with applications to Earth Observation (EO) and Guidance, Navigation & Control (GNC).
+I am a first-year PhD student in Information Technology at the [Politecnico di Milano](https://www.polimi.it/en/) working at [NECSTLab](https://necst.it/). My research focuses on **measurement-driven co-design of adaptive and reconfigurable architectures for satellite on-board vision computing**, with applications to Earth Observation (EO) and Guidance, Navigation & Control (GNC).
 
 I am passionate about heterogeneous systems and their deployment in space and automotive domains, and I am currently deepening my expertise in reconfigurable architectures, on-board computing, and workload characterization for adaptive systems.
 
