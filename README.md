@@ -5,7 +5,7 @@ I am a first-year PhD student in Information Technology at the [Politecnico di M
 I am passionate about heterogeneous systems and their deployment in space and automotive domains, and I am currently deepening my expertise in reconfigurable architectures, on-board computing, and workload characterization for adaptive systems.
 
 ### Academic Journey
-#### PhD Student in Information Technology @ NECSTLab - Polimi — 2025 – Now
+#### PhD Student in Information Technology @ NECSTLab - Polimi — 2026 – Now
 - [Are We Ready to Enable Satellite Autonomy Through On-Board Image Registration? — ACM SIGMETRICS '26](https://github.com/necst/STAR-Bench)
 - *To Infinity and Beyond: A Reconfigurable Architecture for Space Vision Computing* — PhD Forum, IEEE FCCM '26
 - [Adaptive AIE–PL Systems for Efficient End-to-End Pyramidal 3D Image Registration - IEEE FCCM '26](https://github.com/necst/peterpan)
